@@ -1,0 +1,1 @@
+# ADBSwipeTool-mac
